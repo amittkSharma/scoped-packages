@@ -1,6 +1,6 @@
 {
-  "name": "@domains/deltaforce",
-  "version": "1.0.0",
+  "name": "@mydomains/games",
+  "version": "1.0.1",
   "description": "package for games and info",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/amittkSharma/scoped-packages.git"
   },
   "keywords": [
-    "DeltaForce"
+    "Games"
   ],
   "author": "AMIT SHARMA",
   "license": "MIT",
