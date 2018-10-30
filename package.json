@@ -1,6 +1,6 @@
 {
-  "name": "deltaforce",
-  "version": "0.0.1",
+  "name": "@domains/deltaforce",
+  "version": "1.0.0",
   "description": "package for games and info",
   "main": "index.js",
   "scripts": {
