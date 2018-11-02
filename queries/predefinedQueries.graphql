@@ -1,0 +1,8 @@
+# some query
+
+query {
+  games {
+    id
+    label
+  }
+}
