@@ -1,6 +1,6 @@
 {
   "name": "@amittksharma/games",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "package for games and info",
   "main": "index.js",
   "scripts": {
