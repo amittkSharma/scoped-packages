@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "outDir": "dist",
+    "moduleResolution": "node",
+
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "noEmitHelpers": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": false, // true
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false, // TRUE
+    "pretty": true,
+    "removeComments": false,
+    "skipLibCheck": true, // PROJECT_SPECIFIC
+    "sourceMap": true,
+    "strict": true,
+    "suppressExcessPropertyErrors": false,
+    "suppressImplicitAnyIndexErrors": true
+  },
+  "include": ["*.ts"]
+}
