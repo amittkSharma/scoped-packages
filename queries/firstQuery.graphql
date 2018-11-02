@@ -1,0 +1,6 @@
+query {
+  game {
+    id
+    nickName
+  }
+}
