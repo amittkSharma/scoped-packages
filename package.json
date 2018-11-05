@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/amittkSharma/scoped-packages/issues"
   },
-  "homepage": "https://github.com/amittkSharma/scoped-packages#readme"
+  "homepage": "https://github.com/amittkSharma/scoped-packages#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.1"
+  }
 }
