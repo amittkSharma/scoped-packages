@@ -2,7 +2,7 @@
   "name": "@amittksharma/games",
   "version": "2.0.1",
   "description": "package for games and info",
-  "main": ".",
+  "main": "config.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
