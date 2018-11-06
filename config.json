@@ -1,5 +1,14 @@
 {
-  "models": "models",
-  "scripts": "scripts",
-  "queries": "queries"
+  "models": {
+    "name": "models",
+    "extension": "graphql"
+  },
+  "scripts": {
+    "name": "scripts",
+    "extension": "sparql"
+  },
+  "queries": {
+    "name": "queries",
+    "extension": "graphql"
+  }
 }

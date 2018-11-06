@@ -5,7 +5,6 @@
   "main": "config.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -19,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/amittkSharma/scoped-packages/issues"
   },
-  "homepage": "https://github.com/amittkSharma/scoped-packages#readme",
-  "devDependencies": {
-    "@types/node": "^10.12.1"
-  }
+  "homepage": "https://github.com/amittkSharma/scoped-packages#readme"
 }
